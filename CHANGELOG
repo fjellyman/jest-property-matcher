@@ -1,0 +1,15 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## [Unreleased]
+
+## [0.0.1] 2020-02-09
+### Added
+- This CHANGELOG to track project evolution over time.
+- ISC LICENSE
+- README as placeholder
+- .eslintrc for linting configuration
+- .prettierrc and .prettierignore for formatting configuration
+- .babelrc for Javascript compilation configuration
+- Basic NPM package configuration
+- Jest configuration for project tests
